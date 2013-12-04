@@ -1,2 +1,2 @@
-CAP5510-project-proposal
+cap5510-project-proposal
 ========================
